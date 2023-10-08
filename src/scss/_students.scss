@@ -1,0 +1,37 @@
+.table-responsive {
+    background-color: transparent;
+    border-radius: 20px;
+    padding: 5px 8px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    table {
+        width: 100%;
+        color: white;
+    }
+
+    tr {
+        padding: 10px 10px;
+    }
+
+    th {
+        padding: 10px 10px;
+
+    }
+
+    tbody {
+        padding: 10px 10px;
+
+    }
+
+    td {
+        padding: 10px 10px;
+
+    }
+
+    .table-header {
+        border-bottom: 1px solid white; // Add a white border at the bottom of the thead
+    }
+    h3{
+        color: white;
+        margin-bottom: 10px;
+    }
+}
